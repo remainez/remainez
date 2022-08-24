@@ -22,12 +22,12 @@ func getDescription() map[string]string {
 func getKnowledge() []string {
     return []string{
         "AWS",
-        "MySQL",
-        "DynamoDB",
+        "TypeScript",
         "PHP",
         "Golang",
         "Ruby",
-        "Node.js",
+        "MySQL",
+        "DynamoDB",
     }
 }
 
@@ -36,7 +36,6 @@ func getLearning() []string {
     return []string{
         "Kotlin",
         "Spring Boot",
-        "TypeScript",
         "GraphQL",
     }
 }
@@ -45,7 +44,7 @@ func getLearning() []string {
 func getHobbies() map[string]string {
     return map[string]string{
         "game🎮": "FPS, Action, Strategy, Card & Board",
-        "music🎵": "Electronic, Pops, Hiphop, Alternative",
+        "music🎵": "Electronic, Pops, Hiphop, Alternative, Vocaloid, GameMusic",
         "other": "Illustration🎨, Self-Made Keyboard⌨, Self-Made PC🔌, AirSoft🔫",
     }
 }
